@@ -1,4 +1,3 @@
-#if os(Linux)
-	@_exported import Vocabulaire
-	@_exported import InterchangeVoc
-#endif
+@_exported import Vocabulaire
+@_exported import InterchangeVoc
+@_exported import Topo
