@@ -1,8 +1,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "VocabulaireLinux",
+    name: "VocabulaireLib",
     dependencies: [
-    	.Package(url: "https://github.com/QuStudio/InterchangeVoc.git", majorVersion: 0, minor: 1)
+    	.Package(url: "https://github.com/QuStudio/StructuredVoc.git", majorVersion: 0, minor: 2)
     ]
 )
